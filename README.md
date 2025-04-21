@@ -3,7 +3,7 @@
 
 - 🌐 Currently diving deep into **Web** & **App Development**  
 - 🚀 Exploring the world of **Fullstack Development**  
-- 🔧 Tech I’m working with: `React`, `Node.js`, `Java`,`CPP`, `MySQL`  
+- 🔧 Tech I’m working with: `React`, `Node.js`, `Java`,`C++`, `MySQL`  
 - 🌱 Always learning something new — frameworks, tools, or tech trends  
 - 💬 Let's talk about anything dev: from `Frontend` polish to `Backend` logic
 
