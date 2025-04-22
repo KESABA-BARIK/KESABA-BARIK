@@ -26,7 +26,7 @@
 
 ---
 # 📊 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=MohamedArafath205&show_icons=true)
+![Mohamed Arafath's Github Stats](https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&show_icons=true)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&theme=dark&hide_border=false&include_all_commits=true" />
   <br/>
