@@ -26,14 +26,10 @@
 
 ---
 # 📊 GitHub Stats:
-![Kesaba chandra barik's Github Stats](https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&show_icons=true)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&theme=dark&hide_border=false&include_all_commits=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=KESABA-BARIK&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESABA-BARIK&theme=dark&hide_border=false&layout=compact" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KESABA-BARIK&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KESABA-BARIK&theme=dark&hide_border=false&layout=compact)
+
 
 ---
 
