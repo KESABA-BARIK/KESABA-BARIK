@@ -19,7 +19,7 @@
 ---
 
 ## 💻 Languages & Frameworks
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,python,django,dotnet,mysql" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,python,django,flask,dotnet,mysql" /> </p>
 
 ## 🛠️ Tools I Use
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm" /> </p>
