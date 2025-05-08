@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&theme=dark&hide_border=false&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KESABA-BARIK&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KESABA-BARIK&theme=dark&hide_border=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KESABA-BARIK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
