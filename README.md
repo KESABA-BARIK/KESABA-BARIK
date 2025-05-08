@@ -45,7 +45,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KESABA-BARIK&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
 </p>
 
-is there anything to improve in my readme
 [![](https://visitcount.itsvg.in/api?id=KESABA-BARIK&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
