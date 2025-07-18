@@ -22,7 +22,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,python,django,flask,dotnet,mysql" /> </p>
 
 ## 🛠️ Tools I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,anaconda,androidstudio" /> </p>
 
 ---
 # 📊 GitHub Stats:
