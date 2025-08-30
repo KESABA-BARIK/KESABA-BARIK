@@ -63,6 +63,4 @@
 	</tr>
 </table>
 
-![Visitors](https://visit-count.vercel.app/api/count?id=KESABA-BARIK&label=Welcome)
-
 
