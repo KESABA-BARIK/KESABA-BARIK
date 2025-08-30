@@ -7,26 +7,26 @@
 - my kaggle handle : https://www.kaggle.com/kesababarik
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wrvl0i2g9tde7y6gnqoag13i2&count=1)
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kesabachandrabarik/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:kesababarik007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
-## 💻 Languages & Frameworks
+## Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,python,django,flask,dotnet,mysql&theme=dark" />
 </p>
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,anaconda,androidstudio&theme=dark" />
 </p>
 
 ---
-# 📊 GitHub Stats
+# GitHub Stats
 
 </summary>
 <table>
