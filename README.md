@@ -7,12 +7,7 @@
 - my kaggle handle : https://www.kaggle.com/kesababarik
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wrvl0i2g9tde7y6gnqoag13i2&count=1)
-## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kesabachandrabarik/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:kesababarik007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
 
 ## Languages & Frameworks
 <p align="center">
