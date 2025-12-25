@@ -45,17 +45,24 @@
 		</td>
 	</tr>
 	<tr>
-		<td>
-			<a href="https://github.com/KESABA-BARIK/">
-				<img src="https://github-readme-stats.vercel.app/api?username=KESABA-BARIK&show_icons=true&theme=chartreuse-dark&hide_border=false">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/KESABA-BARIK/">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESABA-BARIK&layout=compact&theme=chartreuse-dark&hide_border=false">
-			</a>
-		</td>
-	</tr>
+  <td>
+    <a href="https://github.com/KESABA-BARIK/">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=KESABA-BARIK&show_icons=true&theme=chartreuse_dark&hide_border=false"
+        alt="GitHub Stats"
+      />
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/KESABA-BARIK/">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KESABA-BARIK&layout=compact&theme=chartreuse_dark&hide_border=false"
+        alt="Top Languages"
+      />
+    </a>
+  </td>
+</tr>
+
 </table>
 
 
