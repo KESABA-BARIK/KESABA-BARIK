@@ -91,10 +91,6 @@ AI Applications           ██████████████████
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KESABA-BARIK&color=39ff14&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/KESABA-BARIK?label=Followers&style=flat-square&color=39ff14&labelColor=0d1117)](https://github.com/KESABA-BARIK)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14,00ff80&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
